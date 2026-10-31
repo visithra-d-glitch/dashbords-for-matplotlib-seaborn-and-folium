@@ -33,9 +33,9 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
 import folium
-
 %matplotlib inline
 
+Data description:-
 Date: Month-end date of sales observation.
 
 Recession: Binary variable (1 = recession, 0 = normal).
